@@ -18,7 +18,7 @@ taxonomies:
 
 enableEmoji: true
 params:
-  version: 1
+  version: 3
 
   favicon: "/images/fav.png"
   description: "A high performance hugo theme for personal portfolio and blog."
