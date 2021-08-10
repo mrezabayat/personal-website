@@ -56,7 +56,6 @@ params:
   # Experience
   disable_experience: false
   experience:
-    experience:
     - company: "Universitat Politècnica de Catalunya"
       role: "Simulation Software Developer"
       startdate: Aug 2020
