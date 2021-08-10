@@ -35,55 +35,51 @@ params:
   profession: "a computational mechanics researcher."
   github: "https://github.com/mrezabayat"
   linkedin: "https://linkedin.com/in/mrbayat"
-  # twitter: "https://twitter.com/"
   instagram: "https://www.instagram.com/mrebayat/"
+  # twitter: "https://twitter.com/"
   # facebook: "https://facebook.com"
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Mohammad Reza Bayat, a passionate computational mechanics researcher. I tend to make use of modern numerical techniques to simulate , feels fantastic, and functions correctly."
-  descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
+  descripe_l1_person: "Hi, I'm Mohammad Reza Bayat, a passionate computational mechanics researcher. I tend to utilize modern numerical techniques to simulate the behavior of various materials and optimum product design."
+  descripe_l2_person: "Currently, I am developing high-performance software in parallel using C++ for fitted and unfitted isogeometric analysis. I enjoy working independently as much as in a multi-disciplinary team."
   skills:
-    - name: CSS
+    - name: Isogeometric Analysis
       percentage: 90
-    - name: Django
-      percentage: 85
-    - name: Hugo
+    - name: Finite Element Method
+      percentage: 95
+    - name: C++
       percentage: 80
-    - name: React JS
-      percentage: 70
+    - name: High-performance Computing
+      percentage: 75
 
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
-      role: "Software developer"
-      startdate: Feb 2021
+    - company: "[Universitat Politècnica de Catalunya](https://www.upc.edu/)"
+      role: "Simulation Software Developer"
+      startdate: Aug 2020
       enddate: present
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Facebook"
-      role: "Fullstack developer"
-      startdate: Mar 2020
-      enddate: Dec 2020
+        - point: Programming trimmed isogeometric analysis in an MPI-based parallel C++ library.
+        - point: Modeling multiscale and muliphysics Flexoelectricity (higher-order nonlinear coupled PDE).
+        - point: Developing and bringing new physics insights of flexoelectric metamaterials which are to be published in a highly reputed journal of mechanics.
+        - point: Documenting and presenting the results of simulations to the people in the group.
+    - company: "MAPNA Generator"
+      role: "R&D Mechanical Engineer"
+      startdate: Oct 2016
+      enddate: Aug 2020
       featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
-    - company: "Amazon"
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
+        - point: Static Structural, Modal and Harmonic analysis of components using numerical methods.
+        - point: Automatic FEA employing ANSYS Customization Toolkit (ACT).
+        - point: Electrical, thermal, mechanical, and fluid-solid interaction analysis.
 
   # Education
   disable_education: false
   education:
-    - degree: "B.tech"
-      branch: "Information Technology"
-      university: "Example university"
+    - degree: "PhD"
+      branch: "Mechanical Engineering"
+      university: "University of Tehran"
       startedyear: "2013"
       graduation: "2018"
     - degree: "Degree"
