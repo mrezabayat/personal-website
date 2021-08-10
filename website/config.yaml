@@ -88,8 +88,8 @@ params:
       startedyear: "2013"
       graduation: "2015"
     - degree: "Bachelor"
-      branch: "Mechanical Engineering - - Overall GPA: 18.21/20"
-      university: "Zanjan University"
+      branch: "Mechanical Engineering"
+      university: "Zanjan University - Overall GPA: 18.21/20"
       startedyear: "2009"
       graduation: "2013"
 
