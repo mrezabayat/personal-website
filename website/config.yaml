@@ -41,7 +41,7 @@ params:
 
   # About
   disable_about: false
-  descripe_l1_person: "Hi, I'm Profile, a passionate web developer. I tend to make use of modern web technologies to build websites that looks great, feels fantastic, and functions correctly."
+  descripe_l1_person: "Hi, I'm Mohammad Reza Bayat, a passionate computational mechanics researcher. I tend to make use of modern numerical techniques to simulate , feels fantastic, and functions correctly."
   descripe_l2_person: "This is a example template for about section. You can find my works [here](#projects)"
   skills:
     - name: CSS
