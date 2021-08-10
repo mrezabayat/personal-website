@@ -56,6 +56,16 @@ params:
   # Experience
   disable_experience: false
   experience:
+    experience:
+    - company: "Universitat Politècnica de Catalunya"
+      role: "Simulation Software Developer"
+      startdate: Aug 2020
+      enddate: present
+      featuredpoints:
+        - point: Programming trimmed isogeometric analysis in an MPI-based parallel C++ library.
+        - point: Modeling multiscale and muliphysics Flexoelectricity (higher-order nonlinear coupled PDE).
+        - point: Developing and bringing new physics insights of flexoelectric metamaterials which are to be published in a highly reputed journal of mechanics.
+        - point: Documenting and presenting the results of simulations to the people in the group.
     - company: "MAPNA Generator"
       role: "R&D Mechanical Engineer"
       startdate: Oct 2016
@@ -64,13 +74,6 @@ params:
         - point: Static Structural, Modal and Harmonic analysis of components using numerical methods.
         - point: Automatic FEA employing ANSYS Customization Toolkit (ACT).
         - point: Electrical, thermal, mechanical, and fluid-solid interaction analysis.
-    - company: "Amazon"
-      role: "Fullstack developer"
-      startdate: Feb 2019
-      enddate: Jan 2020
-      featuredpoints:
-        - point: Lead backend developer for a product.
-        - point: Created a frontend design for a product.
 
   # Education
   disable_education: false
