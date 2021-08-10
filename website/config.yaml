@@ -56,7 +56,7 @@ params:
   # Experience
   disable_experience: false
   experience:
-    - company: "Google"
+    - company: "Universitat Politècnica de Catalunya"
       role: "Software developer"
       startdate: Feb 2021
       enddate: present
